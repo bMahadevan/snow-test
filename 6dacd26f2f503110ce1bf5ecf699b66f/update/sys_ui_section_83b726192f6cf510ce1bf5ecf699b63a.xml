@@ -4,43 +4,71 @@
             <element>severity</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-08 14:13:30</sys_created_on>
-            <sys_id>40d7e6192f6cf510ce1bf5ecf699b6ab</sys_id>
+            <sys_created_on>2023-08-08 15:12:54</sys_created_on>
+            <sys_id>3565fe5dc32031103f7693477d013153</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="My Section" display_value="My Section" name="incident" sys_domain="global" view="Default view">83b726192f6cf510ce1bf5ecf699b63a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-08 14:13:30</sys_updated_on>
+            <sys_updated_on>2023-08-08 15:12:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-08 15:12:54</sys_created_on>
+            <sys_id>b965fe5dc32031103f7693477d013153</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="incident" sys_domain="global" view="Default view">83b726192f6cf510ce1bf5ecf699b63a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-08 15:12:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-08 14:13:30</sys_created_on>
-            <sys_id>c0d7e6192f6cf510ce1bf5ecf699b6ab</sys_id>
+            <sys_created_on>2023-08-08 15:12:54</sys_created_on>
+            <sys_id>3d65fe5dc32031103f7693477d013153</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="My Section" display_value="My Section" name="incident" sys_domain="global" view="Default view">83b726192f6cf510ce1bf5ecf699b63a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-08 14:13:30</sys_updated_on>
+            <sys_updated_on>2023-08-08 15:12:54</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ratings.xml</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-08 14:13:30</sys_created_on>
-            <sys_id>44d7e6192f6cf510ce1bf5ecf699b6ab</sys_id>
+            <sys_created_on>2023-08-08 15:12:54</sys_created_on>
+            <sys_id>bd65fe5dc32031103f7693477d013153</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
             <sys_ui_section caption="My Section" display_value="My Section" name="incident" sys_domain="global" view="Default view">83b726192f6cf510ce1bf5ecf699b63a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-08 14:13:30</sys_updated_on>
+            <sys_updated_on>2023-08-08 15:12:54</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-08 15:12:54</sys_created_on>
+            <sys_id>7165fe5dc32031103f7693477d013154</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Section" display_value="My Section" name="incident" sys_domain="global" view="Default view">83b726192f6cf510ce1bf5ecf699b63a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-08 15:12:54</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>My Section</caption>
