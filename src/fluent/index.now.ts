@@ -20,7 +20,7 @@ ClientScript({
     }`,
 })
 
-//creates a business rule that pops up state change message whenever a todo record is updated
+//creates a business rule that pops up state change message whenever a todo record is updated - wow - test
 BusinessRule({
     $id: Now.ID['br0'],
     action: ['update'],
